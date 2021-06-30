@@ -6,3 +6,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea
+.pytest_cache
+__pycache__
